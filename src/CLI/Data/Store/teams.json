@@ -1,0 +1,258 @@
+[
+  {
+    "Id": 1,
+    "City": "Arizona",
+    "Name": "Cardinals",
+    "Abbreviation": "AZ",
+    "Conference_Index": 1,
+    "Division_Index": 3
+  },
+  {
+    "Id": 2,
+    "City": "Atlanta",
+    "Name": "Falcons",
+    "Abbreviation": "ATL",
+    "Conference_Index": 1,
+    "Division_Index": 1
+  },
+  {
+    "Id": 3,
+    "City": "Baltimore",
+    "Name": "Ravens",
+    "Abbreviation": "BAL",
+    "Conference_Index": 0,
+    "Division_Index": 1
+  },
+  {
+    "Id": 4,
+    "City": "Buffalo",
+    "Name": "Billls",
+    "Abbreviation": "BUF",
+    "Conference_Index": 0,
+    "Division_Index": 2
+  },
+  {
+    "Id": 5,
+    "City": "Carolina",
+    "Name": "Panthers",
+    "Abbreviation": "CAR",
+    "Conference_Index": 1,
+    "Division_Index": 1
+  },
+  {
+    "Id": 6,
+    "City": "Chicago",
+    "Name": "Bears",
+    "Abbreviation": "CHI",
+    "Conference_Index": 1,
+    "Division_Index": 0
+  },
+  {
+    "Id": 7,
+    "City": "Cincinnati",
+    "Name": "Bengals",
+    "Abbreviation": "CIN",
+    "Conference_Index": 0,
+    "Division_Index": 0
+  },
+  {
+    "Id": 8,
+    "City": "Cleaveland",
+    "Name": "Browns",
+    "Abbreviation": "CLE",
+    "Conference_Index": 0,
+    "Division_Index": 0
+  },
+  {
+    "Id": 9,
+    "City": "Dallas",
+    "Name": "Cowboys",
+    "Abbreviation": "DAL",
+    "Conference_Index": 1,
+    "Division_Index": 2
+  },
+  {
+    "Id": 10,
+    "City": "Denver",
+    "Name": "Broncos",
+    "Abbreviation": "DEN",
+    "Conference_Index": 0,
+    "Division_Index": 3
+  },
+  {
+    "Id": 11,
+    "City": "Detroit",
+    "Name": "Lions",
+    "Abbreviation": "DET",
+    "Conference_Index": 1,
+    "Division_Index": 0
+  },
+  {
+    "Id": 12,
+    "City": "Green Bay",
+    "Name": "Packers",
+    "Abbreviation": "GB",
+    "Conference_Index": 1,
+    "Division_Index": 0
+  },
+  {
+    "Id": 13,
+    "City": "Houston",
+    "Name": "Texans",
+    "Abbreviation": "HOU",
+    "Conference_Index": 0,
+    "Division_Index": 1
+  },
+  {
+    "Id": 14,
+    "City": "Indianapolis",
+    "Name": "Colts",
+    "Abbreviation": "IND",
+    "Conference_Index": 0,
+    "Division_Index": 1
+  },
+  {
+    "Id": 15,
+    "City": "Jacksonville",
+    "Name": "Jaguars",
+    "Abbreviation": "JAX",
+    "Conference_Index": 0,
+    "Division_Index": 1
+  },
+  {
+    "Id": 16,
+    "City": "Kansas City",
+    "Name": "Chiefs",
+    "Abbreviation": "KC",
+    "Conference_Index": 0,
+    "Division_Index": 3
+  },
+  {
+    "Id": 17,
+    "City": "Las Vegas",
+    "Name": "Raiders",
+    "Abbreviation": "LV",
+    "Conference_Index": 0,
+    "Division_Index": 3
+  },
+  {
+    "Id": 18,
+    "City": "Los Angeles",
+    "Name": "Chargers",
+    "Abbreviation": "LAC",
+    "Conference_Index": 0,
+    "Division_Index": 3
+  },
+  {
+    "Id": 19,
+    "City": "Los Angeles",
+    "Name": "Rams",
+    "Abbreviation": "LAR",
+    "Conference_Index": 1,
+    "Division_Index": 3
+  },
+  {
+    "Id": 20,
+    "City": "Miami",
+    "Name": "Dolphins",
+    "Abbreviation": "MIA",
+    "Conference_Index": 0,
+    "Division_Index": 2
+  },
+  {
+    "Id": 21,
+    "City": "Minnesota",
+    "Name": "Vikings",
+    "Abbreviation": "MIN",
+    "Conference_Index": 1,
+    "Division_Index": 0
+  },
+  {
+    "Id": 22,
+    "City": "New England",
+    "Name": "Patriots",
+    "Abbreviation": "NE",
+    "Conference_Index": 0,
+    "Division_Index": 2
+  },
+  {
+    "Id": 23,
+    "City": "New Orleans",
+    "Name": "Saints",
+    "Abbreviation": "NO",
+    "Conference_Index": 1,
+    "Division_Index": 1
+  },
+  {
+    "Id": 24,
+    "City": "New York",
+    "Name": "Giants",
+    "Abbreviation": "NYG",
+    "Conference_Index": 1,
+    "Division_Index": 2
+  },
+  {
+    "Id": 25,
+    "City": "New York",
+    "Name": "Jets",
+    "Abbreviation": "NYJ",
+    "Conference_Index": 0,
+    "Division_Index": 2
+  },
+  {
+    "Id": 26,
+    "City": "Philadelphia",
+    "Name": "Eagles",
+    "Abbreviation": "PHI",
+    "Conference_Index": 1,
+    "Division_Index": 2
+  },
+  {
+    "Id": 27,
+    "City": "Pittsburgh",
+    "Name": "Steelers",
+    "Abbreviation": "PIT",
+    "Conference_Index": 0,
+    "Division_Index": 0
+  },
+  {
+    "Id": 28,
+    "City": "San Francisco",
+    "Name": "49ers",
+    "Abbreviation": "SF",
+    "Conference_Index": 1,
+    "Division_Index": 3
+  },
+  {
+    "Id": 29,
+    "City": "Seattle",
+    "Name": "Seahawks",
+    "Abbreviation": "SEA",
+    "Conference_Index": 1,
+    "Division_Index": 3
+  },
+  {
+    "Id": 30,
+    "City": "Tampa Bay",
+    "Name": "Buccaneers",
+    "Abbreviation": "TB",
+    "Conference_Index": 0,
+    "Division_Index": 1
+  },
+  {
+    "Id": 31,
+    "City": "Tennessee",
+    "Name": "Titans",
+    "Abbreviation": "TEN",
+    "Conference_Index": 0,
+    "Division_Index": 1
+  },
+  {
+    "Id": 32,
+    "City": "Washington",
+    "Name": "Commanders",
+    "Abbreviation": "WAS",
+    "Conference_Index": 1,
+    "Division_Index": 2
+  }
+]
